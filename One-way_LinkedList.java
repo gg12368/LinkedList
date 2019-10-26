@@ -1,3 +1,4 @@
+单向链表的介绍代码：
 //前驱 prev	previous
 //后继 next
 class Node {
